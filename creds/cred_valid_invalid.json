@@ -1,0 +1,14 @@
+{
+  "invalid_email_valid_pwd": {
+    "email": "milanserhnvcgfrgmail.com",
+    "pwd": "Qwerty88@@"
+  },
+  "valid_email_invalid_pwd": {
+    "email": "milanserhnvcgfr@gmail.com",
+    "pwd": "se"
+  },
+  "invalid_email_invalid_pwd": {
+    "email": "milanserhnvcgfrgmail.com",
+    "pwd": "se"
+  }
+}
